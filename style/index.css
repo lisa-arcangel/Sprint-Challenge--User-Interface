@@ -400,6 +400,11 @@ footer nav a {
     justify-content: center;
     flex-wrap: nowrap;
   }
+  .links{
+    width:60%;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
 }
 
 /*mobile @ 500px*/
